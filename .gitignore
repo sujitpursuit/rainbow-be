@@ -1,0 +1,6 @@
+.venv/
+.env
+__pycache__/
+.test/
+asked_question.txt
+azure-pipelines.yml

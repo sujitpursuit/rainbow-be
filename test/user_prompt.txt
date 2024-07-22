@@ -1,0 +1,10 @@
+1. Show me the details of the agency associated with PolicyNumber 1330740.
+2. What is the current status of PolicyNumber 1330744?
+3. List down the primary insured's information for PolicyNumber 1330744.
+4. Which other insured individuals are associated with PolicyNumber 1330740?
+5. Show me the details of any supporting policies for PolicyNumber 1330744.
+6. What is the CoverageDescription for CoverageID HO 133074014|000?
+7. List down the risks associated with PolicyNumber 1330744 and their corresponding coverage descriptions.
+8. Which vehicles are covered under PolicyNumber 1330740 and what are their makes and models?
+9. Show me the details of the agency associated with PolicyNumber 1330744 and the primary insured's name.
+10. What is the premium due for PolicyNumber 1330744 and when is it due?

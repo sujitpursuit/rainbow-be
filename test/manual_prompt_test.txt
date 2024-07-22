@@ -1,0 +1,11 @@
+1.List down all my policies.
+2.What is the premium due for my policy number 1330740 and when is the due date?
+3.Show me all my primary insureds for my policy number 1330740.
+4.What are the risks and coverages for my policy number 1330744?
+5.Which policy number is active for more than 1 year?
+6.Which are policies active and show their risks and coverages in my account?
+7.Mention the risks associated with my policy 1330744?
+8.Which coverages are included for my vehicles?
+9.What is the status of all my policies?
+10.Which policies have the due date in the next 30days?
+11.Show the coverages associated with my account.
